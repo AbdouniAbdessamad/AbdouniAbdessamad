@@ -45,4 +45,14 @@
 | [GestionStock.NET](https://github.com/AbdouniAbdessamad/GestionStock.NET) | Windows desktop app for products, suppliers and customers, with RDLC reports | C#, WinForms, Entity Framework, SQL Server |
 | [BIGDATALABS](https://github.com/AbdouniAbdessamad/BIGDATALABS) | Hadoop labs: HDFS read/write and a MapReduce WordCount | Java, Hadoop 3, Maven |
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdouniAbdessamad&layout=compact&hide_border=true" alt="Top languages"></p>
+### Languages across my repositories
+<sub>Share of source code (by size) across my 12 project repositories, excluding dependencies and build output.</sub>
+
+| Language | Share | Used in |
+|---|---|---|
+| PHP (Laravel) | `█████████░░░░░░░░░░░` 43.5% | 7 projects |
+| Blade templates | `████████░░░░░░░░░░░░` 38.4% | 6 projects |
+| Java | `█░░░░░░░░░░░░░░░░░░░` 6.9% | Gestionbank, BIGDATALABS |
+| JavaScript (React) | `█░░░░░░░░░░░░░░░░░░░` 5.3% | LAST, FinalV, FinalVersionPFE, reactapp |
+| C# | `█░░░░░░░░░░░░░░░░░░░` 3.7% | GestionStock.NET |
+| Python | `█░░░░░░░░░░░░░░░░░░░` 0.9% | PythonMiniProject, BIGDATALABS |
